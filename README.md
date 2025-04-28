@@ -1,16 +1,16 @@
-## Hi there 👋
+## About me
+Currently transitioning into Data Analysis with skills in Python, SQL, and Power BI.
+Transforming data into meaningful insights and helping businesses make data-driven decisions.
+Currently based in Europe and open to opportunities across Europe and beyond.
 
-<!--
-**natalia-hg/natalia-hg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️Technologies and Tools
+- Languages: Python, SQL
+- Data Visualization: Power BI, Excel
+- Databases: MySQL, PostgreSQL
 
-Here are some ideas to get you started:
+## 📫Let's connect
+- https://www.linkedin.com/in/nataliacarolina-g/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+
+
